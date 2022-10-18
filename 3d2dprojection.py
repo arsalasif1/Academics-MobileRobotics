@@ -1,3 +1,5 @@
+// Copyright (c) Mohmmad Arsal Asif. All rights reserved.
+
 import matplotlib.pyplot as plt
 import numpy as np
 import math as m
